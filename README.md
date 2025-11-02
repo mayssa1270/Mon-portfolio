@@ -52,7 +52,7 @@ Génération automatique de graphiques avec Python/Matplotlib
 
 Intégration de requêtes en langage naturel avec Groq/Llama 3
 
--Stage en Business Intelligence - L'Oréal :
+-Stage en Business Intelligence - L'Oréal, Groupe Bismuth :
 Conception de 4 tableaux de bord Power BI
 
 Utilisation de Sage X3 pour la gestion des données métier
