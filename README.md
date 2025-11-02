@@ -1,5 +1,6 @@
 # Mon-portfolio
 👋 À propos de moi
+
 Étudiante en dernière année d'ingénierie en Business Intelligence (ERP-BI) à l'ESPRIT. Passionnée par l'analyse de données, les systèmes ERP et les solutions CRM. Je maîtrise le développement d'applications de reporting, la conception de tableaux de bord et l'intégration de solutions data.
 
 🛠️ Compétences Techniques
