@@ -50,6 +50,22 @@ Développement desktop avec JavaFX
 
 Interface web avec Symfony
 
+🔧 Application de gestion de centre de visites techniques
+
+Développement d'application desktop avec QT et C++
+
+Gestion des processus de contrôle technique
+
+Interface utilisateur optimisée
+
+🚗 Site web automobile
+
+Développement full-stack avec HTML, CSS, JS et PHP
+
+Base de données pour la gestion du catalogue véhicules
+
+Interface responsive et dynamique
+
 💼 Expériences Professionnelles
 
 -Stage en Business Intelligence & IA - BI Data Consulting :
