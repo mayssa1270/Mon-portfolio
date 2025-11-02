@@ -68,7 +68,18 @@ Conception de 4 tableaux de bord Power BI
 
 Utilisation de Sage X3 pour la gestion des données métier
 
+-Stage en Développement Logiciel - Elghazela Technopark Bizerte :
+
+Contribution au développement front-end avec ReactJS
+
+Conception d'interfaces utilisateur avec Balsamiq
+
+Participation au développement d'une plateforme web
+
+Collaboration en équipe Agile
+
 📫 Contact
+
 Email : mayssa.bensaid@esprit.tn
 
 Téléphone : 21041852
