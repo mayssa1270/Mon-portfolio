@@ -68,7 +68,7 @@ Interface responsive et dynamique
 
 💼 Expériences Professionnelles
 
--Stage en Business Intelligence & IA - BI Data Consulting :
+🔹Stage en Business Intelligence & IA - BI Data Consulting :
 
 Développement d'application de reporting (HTML/CSS/JS + Flask/Python)
 
@@ -78,13 +78,13 @@ Génération automatique de graphiques avec Python/Matplotlib
 
 Intégration de requêtes en langage naturel avec Groq/Llama 3
 
--Stage en Business Intelligence - L'Oréal, Groupe Bismuth :
+🔹Stage en Business Intelligence - L'Oréal, Groupe Bismuth :
 
 Conception de 4 tableaux de bord Power BI
 
 Utilisation de Sage X3 pour la gestion des données métier
 
--Stage en Développement Logiciel - Elghazela Technopark Bizerte :
+🔹Stage en Développement Logiciel - Elghazela Technopark Bizerte :
 
 Contribution au développement front-end avec ReactJS
 
